@@ -1,0 +1,5 @@
+aiogram
+numpy
+pdfkit
+Pillow
+apscheduler
